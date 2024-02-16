@@ -1,4 +1,4 @@
-### Hi there 👋
+### hey
 
 <!--
 **3ric03/3ric03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
