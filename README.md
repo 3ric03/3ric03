@@ -1,4 +1,7 @@
-### hey!
+Hey! 
+- I'm a third year Computer Engineering student @ UofT, graduating in 2026
+- I will be interning @Mozilla this summer as a Software Engineer
+- I primarily work with C/C++, Python and Javascript
 
 <!--
 **3ric03/3ric03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
