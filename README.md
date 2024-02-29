@@ -1,7 +1,8 @@
 Hey! 
-- I'm a third year Computer Engineering student @ UofT, graduating in 2026
-- I will be interning @Mozilla this summer as a Software Engineer
-- I primarily work with C/C++, Python and Javascript
+- I'm a third year Computer Engineering student @ University of Toronto, graduating in 2026
+- I'm located in Toronto 🇨🇦
+- I will be interning @Mozilla this May as a Software Engineer on the Firefox Desktop Engineering Team
+- I primarily work with C/C++, Python and Javascript. Checkout some of my projects below!
 
 <!--
 **3ric03/3ric03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
