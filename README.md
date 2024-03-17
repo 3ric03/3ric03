@@ -1,7 +1,7 @@
 Hey! 
 - I'm a third year Computer Engineering student @ University of Toronto, graduating in 2026
-- I'm located in Toronto 🇨🇦
-- I will be interning @Mozilla this May as a Software Engineer on the Firefox Desktop Engineering Team
+- I'm located in Toronto, Canada 🇨🇦
+- I will be interning @Mozilla as a Software Engineer on the Firefox Desktop Engineering Team, starting this May
 - I primarily work with C/C++, Python and Javascript. Checkout some of my projects below!
 
 <!--
