@@ -1,7 +1,7 @@
 Hey! 
 - I'm a fourth year Computer Engineering student @ University of Toronto, graduating in 2026
 - I'm located in Toronto, Canada 🇨🇦
-- I'm have tech internship experiences with Amazon, Mozilla and Sun Life. 
+- I have tech internship experiences with Amazon, Mozilla and Sun Life. 
 - Feel free to contact me via email: ericchen647@gmail.com or [Linkedin](https://www.linkedin.com/in/ec03/)!
 - I primarily work with C/C++, Python and Javascript. Checkout some of my projects below!
 
